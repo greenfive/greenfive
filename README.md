@@ -5,3 +5,4 @@
 - 📕 I love databases, UNIX, mainframes, Apple computers and languages
 - 💬 Ask me about things I know of and tell me about things I do not know of
 - 📫 How to reach me: [greenfive@shauny.de](mailto:greenfive@shauy.de) (preferably in german, english, french or hungarian 🇭🇺)
+- [my gists](https://gist.github.com/greenfive "my gists") on GitHub
